@@ -111,11 +111,3 @@ def winner
 end
 
 end
-
-
-
-
-
-
-
-
