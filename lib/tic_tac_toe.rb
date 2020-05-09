@@ -103,7 +103,7 @@ def winner
      turn
     end
     if won?
-     puts "Congradulations #{winner}!"
+     puts "Congratulations #{winner}!"
     elsif draw?
      puts "Cat's Game!"
     end
