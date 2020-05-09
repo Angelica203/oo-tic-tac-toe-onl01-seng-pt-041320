@@ -109,5 +109,3 @@ def winner
    end
  end
 end
-
-end
