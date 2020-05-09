@@ -50,6 +50,10 @@ def turn_count
   return number_of_turns
 end
 
+def current_player
+  player = turn_count
+  player %2 == 0 ? player = "X" : player = "O"
+end
 
 def turn
   puts "Please enter 1-9:"
